@@ -1,0 +1,9 @@
+D:\Repository\halo\Mediinfo.StaticResource\bin\Debug\netcoreapp3.1\Mediinfo.StaticResource.deps.json
+D:\Repository\halo\Mediinfo.StaticResource\bin\Debug\netcoreapp3.1\Mediinfo.StaticResource.dll
+D:\Repository\halo\Mediinfo.StaticResource\bin\Debug\netcoreapp3.1\Mediinfo.StaticResource.pdb
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.AssemblyInfoInputs.cache
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.AssemblyInfo.cs
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.csproj.CoreCompileInputs.cache
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.dll
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.pdb
+D:\Repository\halo\Mediinfo.StaticResource\obj\Debug\netcoreapp3.1\Mediinfo.StaticResource.csprojAssemblyReference.cache

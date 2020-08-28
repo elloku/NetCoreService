@@ -1,0 +1,10 @@
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.deps.json
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.dll
+D:\Repository\halo\Mediinfo.Infrastructure.Core\obj\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.csprojAssemblyReference.cache
+D:\Repository\halo\Mediinfo.Infrastructure.Core\obj\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.AssemblyInfoInputs.cache
+D:\Repository\halo\Mediinfo.Infrastructure.Core\obj\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.AssemblyInfo.cs
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Utility.dll
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Utility.pdb
+D:\Repository\halo\Mediinfo.Infrastructure.Core\obj\Debug\netcoreapp3.1\Mediinfo.Infrastructure.Core.csproj.CopyComplete
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Enterprise.dll
+D:\Repository\halo\Mediinfo.Infrastructure.Core\bin\Debug\netcoreapp3.1\Mediinfo.Enterprise.pdb

@@ -1,0 +1,5 @@
+D:\Repository\halo\Mediinfo.APIGateway.Core\bin\Debug\netcoreapp3.1\Mediinfo.APIGateway.Core.deps.json
+D:\Repository\halo\Mediinfo.APIGateway.Core\bin\Debug\netcoreapp3.1\Mediinfo.APIGateway.Core.dll
+D:\Repository\halo\Mediinfo.APIGateway.Core\obj\Debug\netcoreapp3.1\Mediinfo.APIGateway.Core.AssemblyInfoInputs.cache
+D:\Repository\halo\Mediinfo.APIGateway.Core\obj\Debug\netcoreapp3.1\Mediinfo.APIGateway.Core.AssemblyInfo.cs
+D:\Repository\halo\Mediinfo.APIGateway.Core\obj\Debug\netcoreapp3.1\Mediinfo.APIGateway.Core.csprojAssemblyReference.cache

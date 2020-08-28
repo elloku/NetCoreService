@@ -1,0 +1,14 @@
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.HIS.Core.deps.json
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.HIS.Core.dll
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.HIS.Core.pdb
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.Enterprise.dll
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.Utility.dll
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.Enterprise.pdb
+D:\Repository\halo\Mediinfo.HIS.Core\bin\Debug\netcoreapp3.1\Mediinfo.Utility.pdb
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.csprojAssemblyReference.cache
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.AssemblyInfoInputs.cache
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.AssemblyInfo.cs
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.csproj.CoreCompileInputs.cache
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.csproj.CopyComplete
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.dll
+D:\Repository\halo\Mediinfo.HIS.Core\obj\Debug\netcoreapp3.1\Mediinfo.HIS.Core.pdb

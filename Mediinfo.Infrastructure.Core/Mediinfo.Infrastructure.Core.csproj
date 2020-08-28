@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="Consul" Version="1.6.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.80" />
+    <PackageReference Include="System.Runtime.Caching" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mediinfo.DTO.Core\Mediinfo.DTO.Core.csproj" />
+    <ProjectReference Include="..\Mediinfo.Enterprise\Mediinfo.Enterprise.csproj" />
+    <ProjectReference Include="..\Mediinfo.Utility\Mediinfo.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

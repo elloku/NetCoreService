@@ -1,0 +1,9 @@
+D:\Repository\halo\Mediinfo.Utility\bin\Debug\netcoreapp3.1\Mediinfo.Utility.deps.json
+D:\Repository\halo\Mediinfo.Utility\bin\Debug\netcoreapp3.1\Mediinfo.Utility.dll
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.AssemblyInfoInputs.cache
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.AssemblyInfo.cs
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.csproj.CoreCompileInputs.cache
+D:\Repository\halo\Mediinfo.Utility\bin\Debug\netcoreapp3.1\Mediinfo.Utility.pdb
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.dll
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.pdb
+D:\Repository\halo\Mediinfo.Utility\obj\Debug\netcoreapp3.1\Mediinfo.Utility.csprojAssemblyReference.cache
